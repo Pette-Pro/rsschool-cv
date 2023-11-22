@@ -51,6 +51,7 @@ function peak(arr) {
 ---
 
 ## <a id="title1">Languages:</a>
-- Ukrainian - Intermediate
-- Russian - Native
+- Ukrainian - Native
+- Russian - Intermediate
 - English - Intermediate
+- Norwegian - B1
